@@ -1,0 +1,9 @@
+﻿{
+  "Id": "UnlimitedFuel",
+  "DisplayName": "Unlimited Fuel",
+  "Author": "Gamearoo",
+  "Version": "1.0.0",
+  "ManagerVersion": "0.27.14.0",
+  "AssemblyName": "unlimitedfuel.dll",
+  "EntryMethod": "UnlimitedFuel.Main.Load"
+}

@@ -1,6 +1,12 @@
 # Prerequisites
 *.d
 
+
+bin
+
+obj
+Properties
+
 # Object files
 *.o
 *.ko
